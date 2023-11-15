@@ -1,3 +1,5 @@
-# Crime
+# Crime Data Analysis Project
 
-## Crime Classification : Use relevant columns to create a machine learning model that classifies crimes based on their characteristics.
+## Overview
+
+This project relevant columns to create a machine learning model that classifies crimes based on their characteristics.
